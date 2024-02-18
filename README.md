@@ -1,1 +1,2 @@
-# exssentialinstaller.sh
+##  exssentialinstaller.sh
+### for linux-mint 
